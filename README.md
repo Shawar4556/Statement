@@ -62,6 +62,10 @@ This project is licensed under the MIT License.
 ## 🤝 Contributing
 Feel free to submit issues and pull requests to improve the project!
 
+## 📥 Download  
+You can download the latest version of the project here:  
+🔗 [Download Project ZIP](https://github.com/your-username/your-repo/raw/main/project-bolt.zip)
+
 ---
 Made with ❤️ by Shawaar
 
